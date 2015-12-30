@@ -1,6 +1,6 @@
 import { jsdom } from 'jsdom'
 import Alt from 'alt'
-import React from 'react'
+import React from 'react-native'
 import ReactDom from 'react-dom'
 import ReactDomServer from 'react-dom/server'
 import connectToStores from '../'

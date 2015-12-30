@@ -1,4 +1,4 @@
-import React, { PropTypes } from 'react'
+import React, { PropTypes } from 'react-native'
 
 export default class Connect extends React.Component {
   static contextTypes = {

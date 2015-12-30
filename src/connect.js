@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react-native'
 import ConnectBase from './ConnectBase'
 
 export default (Component, config = {}) => {
